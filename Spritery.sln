@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spritery", "Spritery\Spritery.csproj", "{8EB04394-7FC4-447A-91DD-A3E0A7920069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spritery.UI", "Spritery.UI\Spritery.UI.csproj", "{4E6C7A20-BD08-4B4E-B2A3-31A9036E05D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spritery.Extensions", "Spritery.Extensions\Spritery.Extensions.csproj", "{8E06F26F-F1DB-4288-A3A8-D614FA93DE4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spritery.Platform.MacOS", "Spritery.Platform.MacOS\Spritery.Platform.MacOS.csproj", "{A34FACCC-FF91-4071-A8CB-E37C462F0BEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spritery.Platform", "Spritery.Platform\Spritery.Platform.csproj", "{2FCC8976-07E4-4CCA-9E51-A21D9DF5EA74}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools", "Tools", "{B4DB5AB5-64A7-4AE0-A04B-82AFD2002258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EB04394-7FC4-447A-91DD-A3E0A7920069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB04394-7FC4-447A-91DD-A3E0A7920069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB04394-7FC4-447A-91DD-A3E0A7920069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB04394-7FC4-447A-91DD-A3E0A7920069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E6C7A20-BD08-4B4E-B2A3-31A9036E05D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6C7A20-BD08-4B4E-B2A3-31A9036E05D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E6C7A20-BD08-4B4E-B2A3-31A9036E05D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E6C7A20-BD08-4B4E-B2A3-31A9036E05D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E06F26F-F1DB-4288-A3A8-D614FA93DE4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E06F26F-F1DB-4288-A3A8-D614FA93DE4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E06F26F-F1DB-4288-A3A8-D614FA93DE4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E06F26F-F1DB-4288-A3A8-D614FA93DE4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A34FACCC-FF91-4071-A8CB-E37C462F0BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34FACCC-FF91-4071-A8CB-E37C462F0BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34FACCC-FF91-4071-A8CB-E37C462F0BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34FACCC-FF91-4071-A8CB-E37C462F0BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FCC8976-07E4-4CCA-9E51-A21D9DF5EA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FCC8976-07E4-4CCA-9E51-A21D9DF5EA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FCC8976-07E4-4CCA-9E51-A21D9DF5EA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FCC8976-07E4-4CCA-9E51-A21D9DF5EA74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+;paint.net Palette File
+;Downloaded from Lospec.com/palette-list
+;Palette Name: Frozen Fire
+;Description: A perfect palette for fire or water.
+;Colors: 14
+FF3c3669
+FF4d4585
+FF5e70a6
+FF769ab3
+FF88adbd
+FF9ec6c9
+FFb6dbda
+FFed987c
+FFd17b73
+FFbf5f5f
+FFa84a5e
+FF8c3657
+FF69304c
+FF401e2f
